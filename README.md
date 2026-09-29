@@ -81,10 +81,6 @@ Displays attrition across different education fields including:
 ### 7. Age & Gender Attrition Analysis
 Shows attrition rates for different gender groups across various age categories.
 
-## 📷 Dashboard Preview
-
-![HR Analytics Dashboard](Dashboard.png)
-
 ## 🚀 How to Use
 
 1. Download or clone this repository.
